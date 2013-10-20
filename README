@@ -1,0 +1,5 @@
+Jiwoong Youn (youn8)
+Hanjing Gao (hgao10)
+
+Assumption:
+If the argument <pathname> is a directory, the server returns "HTTP 404 Not Found".    
